@@ -1,4 +1,4 @@
-<img align="left" alt="mahbubhasanhira.com" width="450px"  src="https://i.ibb.co/QN9VTQj/Coding-bro.png" />
+[<img align="left" alt="mahbubhasanhira.com" width="450px"  src="https://i.ibb.co/QN9VTQj/Coding-bro.png" />](https://mahbubhasanhira.com)
 
 ### Hi there, I'm [Mahbub Hasan Hira](https://mahbubhasanhira.com) 👋
 
@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **latest technology.**
 - 👨‍💻 All of my projects are available at [Projects](https://mahbubhasanhira.com/projects)
 - 📝 I regularly write articles on [Blogs](https://blog.mahbubhasanhira.com)
-- 💬 Ask me about **my self.**
+- 💬 Ask me about **Web.**
 - 📫 How to reach me **mahbubhasan89.diu@gmail.com**
 - 📄 Know about my experiences [Resume](https://mahbubhasanhira.com/resume)
 - ⚡ Fun fact: I love to Explore the world.
