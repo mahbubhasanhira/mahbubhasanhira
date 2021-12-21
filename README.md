@@ -1,8 +1,8 @@
-[<img align="left" alt="mahbubhasanhira.com" width="450px"  src="https://i.ibb.co/QN9VTQj/Coding-bro.png" />](https://mahbubhasanhira.com)
-
 ### Hi there, I'm [Mahbub Hasan Hira](https://mahbubhasanhira.com) 👋
 
-## <h3>A self-motivated web developer with a deep interest in JavaScript.</h3>
+I’m a self-motivated fullstack web developer with a deep interest in JavaScript. I develop websites and web applications. My core skill is based on JavaScript. I like to do most of the things using JavaScript, React JS and Node JS. I like planning before doing any project and make the project with care, love and functionality. I can cope with any teammate quite frankly. I like research, reading books and traveling in my free time. I am available for any kind of job opportunity that suits my interests.
+
+[<img align="right" alt="mahbubhasanhira.com" width="400"  src="https://i.ibb.co/QN9VTQj/Coding-bro.png" />](https://mahbubhasanhira.com)
 
 ## I'm a 💻 JavaScript Lover 😎 😎 !
 
@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **latest technology.**
 - 👨‍💻 All of my projects are available at [Projects](https://mahbubhasanhira.com/projects)
 - 📝 I regularly write articles on [Blogs](https://blog.mahbubhasanhira.com)
-- 💬 Ask me about **Web.**
+- 💬 Ask me anything related to Modern Web Development.
 - 📫 How to reach me **mahbubhasan89.diu@gmail.com**
 - 📄 Know about my experiences [Resume](https://mahbubhasanhira.com/resume)
 - ⚡ Fun fact: I love to Explore the world.
@@ -56,7 +56,14 @@
 <p align="left"> <a href="https://twitter.com/mahbubhasanhira" target="blank"><img src="https://img.shields.io/twitter/follow/mahbubhasanhira?logo=twitter&style=for-the-badge" alt="mahbubhasanhira" /></a> </p>
 
 ---
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-<img height="190px" alt='mahbubhasan' src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbub-hasan-hira&show_icons=true&locale=en&layout=compact" alt="mahbub-hasan-hira" /> <img height="190px" src="https://github-readme-stats.vercel.app/api?username=mahbub-hasan-hira&show_icons=true&locale=en" alt="mahbub-hasan-hira" />
+   <img height="190px" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbub-hasan-hira&show_icons=true&locale=en&layout=compact" alt="mahbub-hasan-hira" />
+  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=mahbub-hasan-hira&show_icons=true&locale=en" alt="mahbub-hasan-hira" />
+
+</details>
+
+
 
 [website]: https://mahbubhasanhira.com
