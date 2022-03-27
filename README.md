@@ -59,8 +59,8 @@ I’m a self-motivated fullstack web developer with a deep interest in JavaScrip
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-   <img height="190px" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbub-hasan-hira&show_icons=true&locale=en&layout=compact" alt="mahbub-hasan-hira" />
-  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=mahbub-hasan-hira&show_icons=true&locale=en" alt="mahbub-hasan-hira" />
+   <img height="190px" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbubhasanhira&show_icons=true&locale=en&layout=compact" alt="mahbubhasanhira" />
+  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=mahbubhasanhira&show_icons=true&locale=en" alt="mahbubhasanhira" />
 
 </details>
 
