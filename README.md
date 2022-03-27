@@ -55,7 +55,14 @@ I’m a self-motivated fullstack web developer with a deep interest in JavaScrip
 <br />
 <p align="left"> <a href="https://twitter.com/mahbubhasanhira" target="blank"><img src="https://img.shields.io/twitter/follow/mahbubhasanhira?logo=twitter&style=for-the-badge" alt="mahbubhasanhira" /></a> </p>
 
+
 ---
+
+### Profile Visitors:
+![Visitor Count](https://profile-counter.glitch.me/mahbubhasanhira/count.svg)
+
+<br />
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -64,6 +71,5 @@ I’m a self-motivated fullstack web developer with a deep interest in JavaScrip
 
 </details>
 
-
-
-[website]: https://mahbubhasanhira.com
+<br />
+Website: [https://mahbubhasanhira.com](https://mahbubhasanhira.com)
