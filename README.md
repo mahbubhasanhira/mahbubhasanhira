@@ -2,7 +2,8 @@
 
 I’m a self-motivated fullstack web developer with a deep interest in JavaScript. I develop websites and web applications. My core skill is based on JavaScript. I like to do most of the things using JavaScript, React JS and Node JS. I like planning before doing any project and make the project with care, love and functionality. I can cope with any teammate quite frankly. I like research, reading books and traveling in my free time. I am available for any kind of job opportunity that suits my interests.
 
-[<img align="right" alt="mahbubhasanhira.com" width="400"  src="https://i.ibb.co/QN9VTQj/Coding-bro.png" />](https://mahbubhasanhira.com)
+<!--[<img align="right" alt="mahbubhasanhira.com" width="400"  src="https://i.ibb.co/QN9VTQj/Coding-bro.png" />](https://mahbubhasanhira.com) -->
+<a href="https://app.daily.dev/mahbubhasanhira"><img src="https://api.daily.dev/devcards/db8cb4b840f440acbe23723d5586c44c.png?r=vdn" align="right" width="400" alt="Mahbub Hasan's Dev Card"/></a>
 
 ## I'm a 💻 JavaScript Lover 😎 😎 !
 
